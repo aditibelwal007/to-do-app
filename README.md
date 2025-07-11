@@ -45,6 +45,7 @@ enter 1-add
 enter task you want to add= Call a friend
 task Call a friend has been added successfully added...
 ```
+---
 ⚙️ Usage
 Clone the repository or create a new .py file:
 
@@ -60,6 +61,7 @@ Copy
 Edit
 python "to-do app.py"
 Follow the prompts to manage tasks interactively.
+---
 
 🧠 How It Works
 Asks user how many initial tasks they want to add.
@@ -77,6 +79,7 @@ View all tasks
 Exit the program
 
 Updates the task list based on user input.
+---
 
 🛠️ Possible Enhancements
 Save tasks to a .txt or .json file
@@ -86,6 +89,7 @@ Add task priorities or due dates
 Build a GUI using tkinter or PyQt
 
 Web version using Flask
+----
 
 🤝 Contributing
 Contributions are welcome! If you'd like to improve this project:
@@ -99,6 +103,7 @@ Commit your changes (git commit -m 'Add new feature')
 Push to your branch (git push origin your-feature)
 
 Open a pull request
+---
 
 📬 Contact
 If you have any questions, suggestions, or feedback:
