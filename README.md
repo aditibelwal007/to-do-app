@@ -51,7 +51,7 @@ Clone the repository or create a new .py file:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/to-do-app
+git clone https://github.com/aditibelwal007/to-do-app
 cd to-do-app
 Run the script:
 
